@@ -4,24 +4,27 @@ A utility package for extending Tailwind CSS with additional useful classes.
 
 ## Installation
 
-Install the package using npm:
+Ensure that Node.js and Tailwind CSS are installed.
+
+1. Install `tailwind-class-extend` using npm or yarn
 
 ```bash
 npm install tailwind-class-extend -D
 ```
 
-Or using yarn:
+Or
 
 ```bash
 yarn add tailwind-class-extend -D
 ```
 
-## Usage
+2. Add `tailwind-class-extend` as a plugin in `tailwind.config.js` file
 
-In your project, import the package in your .css file:
-
-```css
-@import 'tailwind-class-extend';
+```js
+module.exports = {
+  // ...
+  plugins: [require('tailwind-class-extend')],
+}
 ```
 
 ## Class Options
