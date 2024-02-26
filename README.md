@@ -1,6 +1,6 @@
 # tailwind-class-extend
 
-A utility package for extending Tailwind CSS with additional useful classes.
+A Tailwind CSS plugin for additional utility classes.
 
 ## Installation
 
@@ -39,6 +39,5 @@ module.exports = {
 | flex-evenly            | flex items-center justify-evenly                    |
 | flex-column            | flex flex-col                                       |
 | wh-full                | h-full w-full                                       |
-| text-overflow-ellipsis | overflow-hidden overflow-ellipsis whitespace-nowrap |
 | word-break             | word-break: break-word;                             |
 | word-break-all         | word-break: break-all;                              |
