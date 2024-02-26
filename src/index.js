@@ -46,10 +46,5 @@ module.exports = plugin(function ({ addUtilities }) {
     '.word-break-all': {
       wordBreak: 'break-all',
     },
-    '.text-overflow-ellipsis': {
-      overflow: 'hidden',
-      textOverflow: 'ellipsis',
-      whiteSpace: 'nowrap',
-    },
   })
 })
