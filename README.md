@@ -38,6 +38,5 @@ module.exports = {
 | flex-around            | flex items-center justify-around                    |
 | flex-evenly            | flex items-center justify-evenly                    |
 | flex-column            | flex flex-col                                       |
-| wh-full                | h-full w-full                                       |
 | word-break             | word-break: break-word;                             |
 | word-break-all         | word-break: break-all;                              |

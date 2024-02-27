@@ -1,6 +1,6 @@
 {
   "name": "tailwind-class-extend",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility package for extending Tailwind CSS with additional useful classes.",
   "main": "src/index.js",
   "scripts": {},

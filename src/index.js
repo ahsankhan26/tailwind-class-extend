@@ -36,10 +36,6 @@ module.exports = plugin(function ({ addUtilities }) {
       display: 'flex',
       flexDirection: 'column',
     },
-    '.wh-full': {
-      width: '100%',
-      height: '100%',
-    },
     'word-break': {
       wordBreak: 'break-word',
     },
