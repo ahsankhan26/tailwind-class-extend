@@ -42,5 +42,8 @@ module.exports = plugin(function ({ addUtilities }) {
     '.word-break-all': {
       wordBreak: 'break-all',
     },
+    '.min-h-inherit': {
+      minHeight: 'inherit',
+    },
   })
 })
