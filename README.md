@@ -1,6 +1,6 @@
 # tailwind-class-extend
 
-A Tailwind CSS plugin for additional utility classes.
+A TailwindCSS plugin for additional utility classes.
 
 ## Installation
 
@@ -40,3 +40,4 @@ module.exports = {
 | flex-column            | flex flex-col                                       |
 | word-break             | word-break: break-word;                             |
 | word-break-all         | word-break: break-all;                              |
+| min-h-inherit          | min-height: inherit;                                |
